@@ -153,7 +153,7 @@ My goal is to move beyond simply learning technologies and become better at **de
 ---
 
 ## 🌐 Connect With Me
-
+linkedin: https://www.linkedin.com/in/jahnavi-kesanapalli-915906335/
 ---
 
 ## 💡 Developer Mindset
