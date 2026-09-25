@@ -32,25 +32,25 @@ I believe the best way to learn technology is to **build, break, debug, and buil
 JAVA
 PYTHON
 
-\
+
 
 ### Web Development
 
 HTML
 CSS
-JAVASCRIPT\
+JAVASCRIPT
 
 ### Backend & Database
 
 SQL
-MANGODB\
+MANGODB
 
 ### Tools
 
 VS CODE
 
 GITHUB
-\
+
 
 ---
 
@@ -117,7 +117,7 @@ Currently practicing:
 
 ### 👨‍💻 Coding Profile
 
----
+---codechef username:u24a81a0585
 
 ## 📚 Currently Learning
 
